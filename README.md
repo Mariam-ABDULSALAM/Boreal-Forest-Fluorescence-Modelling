@@ -16,7 +16,12 @@ Boreal forests are critical global carbon sinks, yet they are highly vulnerable 
 ## 📈 Key Findings
 - Successfully simulated the diurnal "bell curve" of fluorescence.
 - Identified the importance of accounting for **seasonal acclimation** to improve model accuracy.
-- Demonstrated that leaf-scale modeling is essential for refining national-scale carbon budgets (SNBC).
+- Demonstrated that leaf scale modeling is essential for refining national-scale carbon budgets (SNBC).
+
+![Model Visualization](preview1.png)
+*Figure 1: Comparison between modeled fluorescence and PAM fluorometry observations showing the diurnal cycle of photosynthetic efficiency.*
+
+
 
 ## 🚀 Skills Showcased
 - **Numerical Modelling**
