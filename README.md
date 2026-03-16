@@ -22,13 +22,13 @@ The model was constructed using a rigorous biophysical framework:
   
 ## Key Findings and Scientific Result
 
-High Diurnal Correlation: The model successfully replicated the diurnal "bell curve" of leaf fluorescence, with a high degree of correlation between simulated results and PAM fluorometry field data. This confirms the model's ability to track real time photosynthetic energy conversion.
+**High Diurnal Correlation:** The model successfully replicated the diurnal "bell curve" of leaf fluorescence, with a high degree of correlation between simulated results and PAM fluorometry field data. This confirms the model's ability to track real time photosynthetic energy conversion.
 
-Identification of Quenching Drivers: Analysis revealed that Non Photochemical Quenching (NPQ) is the dominant regulator of fluorescence during peak solar radiation. The model accurately captured how plants protect themselves from light stress by dissipating excess energy as heat.
+**Identification of Quenching Drivers:** Analysis revealed that Non Photochemical Quenching (NPQ) is the dominant regulator of fluorescence during peak solar radiation. The model accurately captured how plants protect themselves from light stress by dissipating excess energy as heat.
 
-The Acclimation Gap: A key discovery was the divergence between the model and observations during seasonal transitions. This finding identified photosynthetic acclimation as a critical missing variable, proving that boreal trees "remember" past temperature patterns to optimize their carbon uptake.
+**The Acclimation Gap:** A key discovery was the divergence between the model and observations during seasonal transitions. This finding identified photosynthetic acclimation as a critical missing variable, proving that boreal trees "remember" past temperature patterns to optimize their carbon uptake.
 
-Proxy Reliability: The results confirm that leaf scale fluorescence is a reliable proxy for Gross Primary Production (GPP), providing a robust scientific basis for monitoring the carbon sequestration potential of high latitude forests.
+**Proxy Reliability:** The results confirm that leaf scale fluorescence is a reliable proxy for Gross Primary Production (GPP), providing a robust scientific basis for monitoring the carbon sequestration potential of high latitude forests.
 
 ![Model Visualization](preview1.png)
 *Figure 1: Comparison between modeled fluorescence and PAM fluorometry observations showing the diurnal cycle of photosynthetic efficiency.*
