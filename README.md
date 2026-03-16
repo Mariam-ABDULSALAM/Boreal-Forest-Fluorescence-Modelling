@@ -18,11 +18,8 @@ Boreal forests are critical global carbon sinks, yet they are highly vulnerable 
 The model was constructed using a rigorous biophysical framework:
 * **Input Integration:** Integration of Photosynthetic Active Radiation (PAR) and temperature variables.
 * **Parameterization:** Fine-tuning of $F_m$ (maximum fluorescence) and $F_0$ (minimum fluorescence) based on boreal species characteristics.
-* **Validation:** Yield outputs were validated against **PAM fluorometry** field data to ensure seasonal accuracy.## Key Findings
-- Successfully simulated the diurnal bell curve of fluorescence.
-- Identified the importance of accounting for **seasonal acclimation** to improve model accuracy.
-- Demonstrated that leaf scale modeling is essential for refining nationalscale carbon budgets (SNBC).
-
+* **Validation:** Yield outputs were validated against **PAM fluorometry** field data to ensure seasonal accuracy.
+  
 ## Key Findings and Scientific Result
 
 High Diurnal Correlation: The model successfully replicated the diurnal "bell curve" of leaf fluorescence, with a high degree of correlation between simulated results and PAM fluorometry field data. This confirms the model's ability to track real time photosynthetic energy conversion.
